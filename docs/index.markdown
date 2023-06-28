@@ -9,7 +9,7 @@ ChessConverter is a desktop program that captures a chess board image on the scr
 1. change the move side of the position
 2. change the position easily if the chess board in the image is upside down
 3. edit the position if ChessConverter fails to recognize some pieces correctly
-4. practice and analyze the position, with your favourate UCI engine
+4. practice and analyze the position, with your favourite UCI engine
 5. send the position to [lichess.org](https://lichess.org)
 
 ![](/chessconverter/assets/chessconverter.png)
