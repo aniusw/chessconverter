@@ -21,7 +21,9 @@ ChessConverter能把电脑屏幕上截取的国际象棋图片转换成[FEN](htt
 ## 捐赠
 如果您觉得ChessConverter对您有帮助，您可以通过下方的二维码向开发者捐赠来支持开发者。
 
-| ![whatsapp.png](/chessconverter/assets/wechat_receive.png) | ![wechat.png](/chessconverter/assets/alipay_receive.png) |
+| 微信 | 支付宝 |
+| --- | --- |
+| ![wechat_receive.png](/chessconverter/assets/wechat_receive.png) | ![alipay_receive.png](/chessconverter/assets/alipay_receive.png) |
 
 ## 技术支持
 如果您有任何的问题，建议或想法，请加微信联系开发者。
