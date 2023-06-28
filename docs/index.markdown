@@ -22,7 +22,7 @@ ChessConverter is a desktop program that captures a chess board image on the scr
 If you like ChessConverter and want to say thanks, or encourage me to do more, you can buy me a coffee via [ko-fi](https://ko-fi.com/aniusw) or [buymeacoffee](https://bmc.link/aniusw)!
 
 ## Support
-If you have any question, comment or idea, please reach us via WhatApp or WeChat.
+If you have any question, comment or idea, please reach me via WhatApp or WeChat.
 
 | ![whatsapp.png](/chessconverter/assets/whatsapp.png) | ![wechat.png](/chessconverter/assets/wechat.png) |
 
