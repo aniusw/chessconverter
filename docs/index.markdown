@@ -4,6 +4,8 @@ title: Welcome to ChessConverter!
 permalink: /
 ---
 
+[English](/chessconverter/), [中文](/chessconverter/cn/)
+
 ## What is ChessConverter?
 ChessConverter is a desktop program that captures a chess board image on the screen and converts it to a chess position described by [Forsyth-Edwards Notation (FEN)](https://www.chess.com/terms/fen-chess). With ChessConverter you can also:
 1. change the move side of the position
@@ -12,7 +14,7 @@ ChessConverter is a desktop program that captures a chess board image on the scr
 4. practice and analyze the position, with your favourite UCI engine
 5. send the position to [lichess.org](https://lichess.org)
 
-![](/chessconverter/assets/chessconverter.png)
+| ![](/chessconverter/assets/chessconverter.png) | ![](/chessconverter/assets/analyze.png) |
 
 ## Get it now, it's free!
 
