@@ -4,15 +4,14 @@ title: Downloads
 permalink: /downloads/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### Version for Mac Apple Silicon
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+| Google | Baidu |
+| ------ | ----- |
+| [ChessConverter.dmg](https://drive.google.com/file/d/1Ac0NwOgn094I-ljmC9xsXb29FqfanJDF/view?usp=drive_link) | [ChessConverter.dmg](https://pan.baidu.com/s/1qI04x2fJcYFLYjM4FaMZkw?pwd=6ygk) |
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### Version for Windows x86_64
 
-
-[jekyll-organization]: https://github.com/jekyll
+| Google | Baidu |
+| ------ | ----- |
+| [ChessConverter.7z](https://drive.google.com/file/d/1D9n1p9hO8v9C0pp3x4Pl1CMm3yj3NHj9/view?usp=drive_link) | [ChessConverter.7z](https://pan.baidu.com/s/13tkjhwnZtPzscOOUhtLViw?pwd=ht94) |
