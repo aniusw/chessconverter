@@ -11,7 +11,7 @@ permalink: /downloads/
 | **ChessConverter** | 1.0.1 | [ChessConverter.dmg](https://drive.google.com/file/d/1Ac0NwOgn094I-ljmC9xsXb29FqfanJDF/view?usp=drive_link) | [ChessConverter.dmg](https://pan.baidu.com/s/1JVzf_puvY4Ncfzx6r4MMhQ?pwd=ftve) |
 | **1001 Deadly Checkmates - ChessWoodpecker** | 1.0.1 | [1001 Deadly Checkmates - ChessWoodpecker.dmg](https://drive.google.com/file/d/1mYkTpN-fAIm12ljW2ja8y8jyy2J53rht/view?usp=sharing) | [1001 Deadly Checkmates - ChessWoodpecker.dmg](https://pan.baidu.com/s/1E6NfMlSXfFfIltbURgxT2g?pwd=cebw) |
 
-### Versions for Windows x86_64
+### Windows x86_64
 
 | Application | Version | Google | Baidu |
 | ----------- | ------- | ------ | ----- |
