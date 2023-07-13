@@ -1,1 +1,2 @@
-1.0.1.1324
+1001 Deadly Checkmates - ChessWoodpecker    1.0.1.1600
+ChessConverter  1.0.1.1800
