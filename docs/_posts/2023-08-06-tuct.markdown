@@ -1,0 +1,76 @@
+---
+layout: post
+title:  "The Ultimate Checkmate Training"
+date:   2023-08-06 21:43:10 +0800
+permalink: /tuct/
+---
+
+The Ultimate Checkmate Training helps you to improve your chess by practising 2025 checkmate positions with [the spaced repetition technique](https://en.wikipedia.org/wiki/Spaced_repetition). We (slowly) created this application while we tried [The Woodpecker Method](https://www.amazon.com/Woodpecker-Method-Axel-Smith/dp/1784830542) with a computer.
+
+Specifically, these 2025 positions are:
+
+|  | Number of Positions |
+| :--------: | :--------: |
+| Mate in 1 | 36 |
+| Mate in 2 | 510 |
+| Mate in 3 | 568 |
+| Mate in 4 | 356 |
+| Mate in 5 | 213 |
+| Mate in 6 | 129 |
+| Mate in 7 | 86 |
+| Mate in 8 | 51 |
+| Mate in 9 | 37 |
+| Mate in 10 | 39 |
+
+These positions are selected from various sources and all checked by chess engine!
+
+## License
+
+You can use this application freely with a learning time limit (15 minute every day). You can choose to remove the learning time limit with the following ways:
+
+<table>
+  <tr>
+    <th>License</th>
+    <th>Price</th>
+    <th>Paypal</th>
+    <th>Taobao</th>
+  </tr>
+  <tr>
+    <td>6 Month License </td>
+    <td>$1.49</td>
+    <td>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <input type="hidden" name="hosted_button_id" value="T2P8P372FFCYG">
+        <table>
+        <tr><td><input type="hidden" name="on0" value="6 Month License, Your App ID">6 Month License, Your App ID</td></tr><tr><td><input type="text" name="os0" maxlength="200"></td></tr>
+        </table>
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1 Year License</td>
+    <td>$2.49</td>
+    <td>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <input type="hidden" name="hosted_button_id" value="CWMBLDSE7LJYW">
+        <table>
+        <tr><td><input type="hidden" name="on0" value="1 Year License, Your App ID">1 Year License, Your App ID</td></tr><tr><td><input type="text" name="os0" maxlength="200"></td></tr>
+        </table>
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
+
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+## Your App ID
+
+The application ID is a 6 digit number. It is visible in the application's about box.
+![](/chessconverter/assets/findappid.png)
