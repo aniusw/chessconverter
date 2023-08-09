@@ -26,18 +26,18 @@ These positions are selected from various sources and all checked by chess engin
 
 ## License
 
-You can use this application freely with a learning time limit (15 minute every day). You can choose to remove the learning time limit with the following ways:
+You can use this application freely with a learning time limit (15 minute every day). You can remove the learning time limit with the following ways:
 
-<table>
+<table style="text-align:center;">
   <tr>
-    <th>License</th>
-    <th>Price</th>
-    <th>Paypal</th>
-    <th>Taobao</th>
+    <th style="width:18%">License</th>
+    <th style="width:5%">Price</th>
+    <th style="width:40%">Paypal</th>
+    <th style="width:36%">Taobao</th>
   </tr>
   <tr>
     <td>6 Month License </td>
-    <td>$1.49</td>
+    <td>$2.49</td>
     <td>
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
         <input type="hidden" name="cmd" value="_s-xclick">
@@ -49,11 +49,11 @@ You can use this application freely with a learning time limit (15 minute every 
         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
     </td>
-    <td></td>
+    <td rowspan="2"><a href="https://item.taobao.com/item.htm?id=732882978517">国际象棋绝杀终极训练许可证</a></td>
   </tr>
   <tr>
     <td>1 Year License</td>
-    <td>$2.49</td>
+    <td>$4.49</td>
     <td>
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
         <input type="hidden" name="cmd" value="_s-xclick">
@@ -64,9 +64,7 @@ You can use this application freely with a learning time limit (15 minute every 
         <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
-
     </td>
-    <td></td>
   </tr>
 </table>
 
