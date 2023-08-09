@@ -2,6 +2,7 @@
 layout: page
 title: Donations
 permalink: /donations/
+menu: yes
 ---
 
 If you like ChessConverter and want to say thanks, or encourage us to do more, you can buy us a coffee via [ko-fi](https://ko-fi.com/aniusw) or [buymeacoffee](https://bmc.link/aniusw)!

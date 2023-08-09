@@ -2,6 +2,7 @@
 layout: page
 title: Support
 permalink: /support/
+menu: yes
 ---
 
 If you have any question, comment or idea, please reach us via email, WhatApp or WeChat.

@@ -2,6 +2,7 @@
 layout: page
 title: Downloads
 permalink: /downloads/
+menu: yes
 ---
 
 ### Mac Apple Silicon
