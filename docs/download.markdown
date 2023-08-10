@@ -7,14 +7,15 @@ menu: yes
 
 ### Mac Apple Silicon
 
-| Application | Version | Google | Baidu |
+| Application | Version | Google | 123pan |
 | ----------- | ------- | ------ | ----- |
-| **ChessConverter** | 1.0.1 | [ChessConverter.dmg](https://drive.google.com/file/d/1Ac0NwOgn094I-ljmC9xsXb29FqfanJDF/view?usp=drive_link) | [ChessConverter.dmg](https://pan.baidu.com/s/1JVzf_puvY4Ncfzx6r4MMhQ?pwd=ftve) |
-| **The Ultimate Checkmate Training - ChessWoodpecker** | 1.0.1 | [Comming soon]() | [Comming soon]() |
+| **ChessConverter** | 1.0.1 | [ChessConverter.dmg](https://drive.google.com/file/d/1Ac0NwOgn094I-ljmC9xsXb29FqfanJDF/view?usp=drive_link) | [ChessConverter.dmg](https://www.123pan.com/s/vIAqVv-OfbvH.html) |
+| **The Ultimate Checkmate Training** | 1.0.1 | [The Ultimate Checkmate Training.dmg](https://drive.google.com/file/d/1KB5oDwi7BLrUBq3otZTxwDWxwtQ8B--H/view?usp=drive_link) | [The Ultimate Checkmate Training.dmg](https://www.123pan.com/s/vIAqVv-rfbvH.html) |
 
 ### Windows x86_64
 
-| Application | Version | Google | Baidu |
+| Application | Version | Google | 123pan |
 | ----------- | ------- | ------ | ----- |
-| **ChessConverter** | 1.0.1 | [ChessConverter.7z](https://drive.google.com/file/d/1D9n1p9hO8v9C0pp3x4Pl1CMm3yj3NHj9/view?usp=drive_link) | [ChessConverter.7z](https://pan.baidu.com/s/1CtwYOLlf3fxWecFAplzsVQ?pwd=3he7) |
-| **The Ultimate Checkmate Training - ChessWoodpecker** | 1.0.1 | [Comming soon]() | [Comming soon]() |
+| **ChessConverter** | 1.0.1 | [ChessConverter.7z](https://drive.google.com/file/d/1D9n1p9hO8v9C0pp3x4Pl1CMm3yj3NHj9/view?usp=drive_link) | [ChessConverter.7z](https://www.123pan.com/s/vIAqVv-RfbvH.html) |
+| **The Ultimate Checkmate Training** | 1.0.1 | [The Ultimate Checkmate Training.7z](https://drive.google.com/file/d/1lpuc54JXBx9Sps1rd-4QPOgqkOPQ0C00/view?usp=drive_link) | [The Ultimate Checkmate Training.7z](https://www.123pan.com/s/vIAqVv-DfbvH.html) |
+
