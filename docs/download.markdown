@@ -9,7 +9,7 @@ menu: yes
 
 | Application | Version | Google | 123pan | MD5 Checksum |
 | ----------- | ------- | ------ | ------ | ------------ |
-| **ChessConverter** | 1.0.1 | [ChessConverter.dmg](https://drive.google.com/file/d/1Ac0NwOgn094I-ljmC9xsXb29FqfanJDF/view?usp=drive_link) | [ChessConverter.dmg](https://www.123pan.com/s/vIAqVv-OfbvH.html) | 41f41ce68d8337920fdc3cb008e4d77f |
+| **ChessConverter** | 1.0.1 | [ChessConverter.dmg](https://drive.google.com/file/d/1Ac0NwOgn094I-ljmC9xsXb29FqfanJDF/view?usp=drive_link) | [ChessConverter.dmg](https://www.123pan.com/s/vIAqVv-qGbvH.html) | 41f41ce68d8337920fdc3cb008e4d77f |
 | **The Ultimate Checkmate Training** | 1.0.1 | [The Ultimate Checkmate Training.dmg](https://drive.google.com/file/d/1KB5oDwi7BLrUBq3otZTxwDWxwtQ8B--H/view?usp=drive_link) | [The Ultimate Checkmate Training.dmg](https://www.123pan.com/s/vIAqVv-rfbvH.html) |
 
 ### Windows x86_64
